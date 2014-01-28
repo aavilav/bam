@@ -46,6 +46,12 @@
         <h2 class="form-signin-heading">Login</h2>
         <input type="text" class="input-block-level" placeholder="Usuario..." required name="usuario">
         <input type="password" class="input-block-level" placeholder="Contraseña..." required name="clave">
+        <select name="modulo">
+        <option value="1">Operaciones</option>
+        <option value="2">Administracion</option>
+        <option value="3">Logistica</option>
+        <option value="4">Admin</option>
+        </select>
         <button class="btn btn-large btn-primary" type="submit">Ingresar</button>
       </form>
     </div> 
