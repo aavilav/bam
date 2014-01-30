@@ -50,7 +50,8 @@
         <option value="1">Operaciones</option>
         <option value="2">Administracion</option>
         <option value="3">Logistica</option>
-        <option value="4">Admin</option>
+	   <option value="4">Logistica</option>
+        <option value="5">Admin</option>
         </select>
         <button class="btn btn-large btn-primary" type="submit">Ingresar</button>
       </form>
